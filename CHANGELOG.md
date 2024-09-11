@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.246](https://github.com/scratchfoundation/scratch-audio/compare/v1.0.245...v1.0.246) (2024-09-11)
+
+
+### Bug Fixes
+
+* **deps:** update dependency scratch-semantic-release-config to v1.0.16 ([4cd8b88](https://github.com/scratchfoundation/scratch-audio/commit/4cd8b88061e3ca069136bdfa105babf29111ced1))
+
 ## [1.0.245](https://github.com/scratchfoundation/scratch-audio/compare/v1.0.244...v1.0.245) (2024-09-11)
 
 
