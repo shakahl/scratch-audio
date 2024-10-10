@@ -1,6 +1,6 @@
 {
   "name": "scratch-audio",
-  "version": "1.0.279",
+  "version": "1.0.280",
   "description": "audio engine for scratch 3.0",
   "main": "dist.js",
   "browser": "./src/index.js",
