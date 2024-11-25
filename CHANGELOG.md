@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.0.0](https://github.com/scratchfoundation/scratch-audio/compare/v1.0.332...v2.0.0) (2024-11-25)
+
+
+* chore!: set license to AGPL-3.0-only ([ab3e0a6](https://github.com/scratchfoundation/scratch-audio/commit/ab3e0a69658078514a9d2b575a40f7ad2afbdae0))
+
+
+### BREAKING CHANGES
+
+* This project is now licensed under the AGPL version 3.0
+
+See https://www.scratchfoundation.org/open-source-license
+
 ## [1.0.332](https://github.com/scratchfoundation/scratch-audio/compare/v1.0.331...v1.0.332) (2024-11-25)
 
 
