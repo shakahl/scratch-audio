@@ -17,7 +17,7 @@
     "url": "git+https://github.com/scratchfoundation/scratch-audio.git"
   },
   "author": "Massachusetts Institute of Technology",
-  "license": "BSD-3-Clause",
+  "license": "AGPL-3.0-only",
   "bugs": {
     "url": "https://github.com/scratchfoundation/scratch-audio/issues"
   },
